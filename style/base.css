@@ -2,10 +2,11 @@
 :root{
     --background: #fff;
     --foreground: #6E07F3;
-    --primary: #141c3a;
-    --primary-light:#cdd3eb;
-    --primary-foreground:#5be8b9;
-    --secyndary-foreground:#141c3a;
+    --Primary: #141c3a;
+    --primary-light: #cdd3bb;
+    --primary-foreground:#fff;
+    --secondary: #5be8b9;
+    --secondary-foreground:#141c3a;
 }
 *{
     margin: 0;
