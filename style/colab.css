@@ -1,0 +1,27 @@
+.colab{
+    background-color: var(--foreground);
+    color: var(--primary-foreground);
+    padding: 8rem;
+    text-align: center;
+}
+.colab .title{
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 2.5rem;
+    margin-bottom: 3rem;
+}
+.colab .subtitle{
+    font-size: 1.7rem;
+    line-height: 2.2rem;
+    margin-bottom: 4rem;
+}
+.colab .button{
+    border-color: var(--background);
+    color: var(--background);
+    font-size: 2rem;
+    text-decoration: none;
+}
+.colab .button:hover{
+    background-color: var(--background);
+    color: var(--foreground);
+}
